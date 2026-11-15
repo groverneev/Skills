@@ -1,0 +1,3 @@
+[submodule "pstack"]
+	path = pstack
+	url = https://github.com/cursor/plugins.git
